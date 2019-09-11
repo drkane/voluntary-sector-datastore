@@ -1,15 +1,15 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+title: Voluntary Sector Datastore
+greeting: Welcome to the Voluntary Sector Datastore
+description: A repository for useful datasets relating to the voluntary sector.
+baseurl: /voluntary-sector-datastore
 logo: /img/jkan.png
 
 # Site theme
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 3812efb50f3573cc1ed0
+gatekeeper_host: https://vol-sec-datastore-auth.herokuapp.com/
 
 # Dataset schema
 schema: default
