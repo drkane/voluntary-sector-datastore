@@ -9,7 +9,8 @@ resources:
     format: bcp
   - name: Charity Register search (beta)
     url: 'https://beta.charitycommission.gov.uk/'
-    format: html
+  - name: Charity Register search (old version)
+    url: 'http://apps.charitycommission.gov.uk/showcharity/registerofcharities/RegisterHomePage.aspx'
   - name: Tools for using the Charity Commission data (by NCVO)
     url: 'https://github.com/ncvo/charity-commission-extract'
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
@@ -18,3 +19,8 @@ category:
 maintainer: Charity Commission for England and Wales
 maintainer_email: 
 ---
+
+
+Charity register info
+
+[markdown test](https://beta.charitycommission.gov.uk/)
